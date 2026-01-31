@@ -61,3 +61,9 @@ Which employees earn above departmental averages
 Salary ranking within departments
 
 Total and cumulative salary costs
+
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/af611e03-255c-4e5c-bbb4-648096979a24" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/63a704bf-8870-49d4-a3b7-4625c988b29f" />
